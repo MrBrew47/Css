@@ -1,0 +1,76 @@
+body {
+    background-color: #ffffff;
+    color:#000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+a{
+    color: #000000;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration:underline;
+}
+a:active{
+    color: blue;
+}
+a:visited{
+    color: grey;
+}
+
+.conteiner{ max-width: 75%;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+
+
+}
+
+.info {
+    margin-bottom: 20px;
+}
+    
+.avatar{
+    width: 700px;
+    border-radius: 25px;
+    box-shadow: 2px 2px 25px rgba(5, 87, 12, 0.959);
+}
+
+.bg-yelow{
+background-color: #fff9dc;
+}
+.bg-green{
+    background-color: #e5ffe7;
+    
+}
+
+
+
+
+
+
+.card{
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+
+
+
+}
+.card h2 {
+    margin-bottom: 10px;
+}
+.list {
+    padding: 0px 20px;
+}
+.list li {
+    color: #86898f;
+    margin-bottom: 10px;
+    border-bottom: 1px solid gray;
+    list-style: none;
+}
+.eee{
+    max-width: 75%;
+    margin: auto;
+    display: block;
+} 
+
+    
